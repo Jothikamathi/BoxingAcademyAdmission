@@ -1,0 +1,11 @@
+table {
+    border: solid 10px black;
+   
+  }
+  
+    table td, table th ,table tr {
+        padding: 15px;
+        background-color:pink;
+        box-shadow:3px 5px 5px 5px black;
+    }
+   

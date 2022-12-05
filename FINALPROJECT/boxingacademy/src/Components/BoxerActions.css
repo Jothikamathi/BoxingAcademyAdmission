@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/background-boxing-ring-illuminated-sports-area-fighting-dangerous-sport_33099-1023.jpg?w=2000);
+}
+
+.logout{
+    padding:10px;
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+    margin-left: 900px;
+    margin-top: 30px;
+}
+
+h1{
+    color: antiquewhite;
+}
